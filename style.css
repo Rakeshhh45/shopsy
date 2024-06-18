@@ -1,0 +1,33 @@
+.img{
+    height: 50px;
+    width: 100px;
+}
+
+.belownav{
+    display: flex;
+    justify-content: space-between  ;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+    padding: 20px;
+}
+
+.f1{
+    border-right: 1px solid white;
+}
+
+hr{
+    color: white;
+}
+
+.page{
+    margin-left: 38%;
+}
